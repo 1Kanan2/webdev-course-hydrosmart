@@ -17,7 +17,7 @@ requiere descargas!** Solo abre tu navegador web. <br>
 
 ### Lección 5: Crear una página web sencilla (13 minutos)
 - **Descripción**: Combinar HTML, CSS y un poco de JavaScript para crear una página de perfil personal.
-- **Enlace**: [Ver la lección]( )
+- **Enlace**: [Ver la lección](https://youtu.be/QPGwCkdQXeo)
 - **Consejos clave**: Podrías empezar con tu proyecto guiandote de el código trabajado. 
 - **Proyecto Final**: [Crea tu Perfil](https://jsfiddle.net/) 👈 **¡No necesitas registrarte!**
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
